@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+This is my main page for my blog. It'll be a fun foray into any maths, statistics or programming that I find engaging.
